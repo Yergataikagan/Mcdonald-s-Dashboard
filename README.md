@@ -11,7 +11,7 @@ This Power BI dashboard was built to give McDonald's European operations a centr
 
      This page goes deeper, showing each country's revenue, gross profit, and theft amounts by store, with details on general managers including a gender split and age group analysis, to explore whether manager      demographics rrelate with sales or loss figures.
 
-Dataset Used:
+Dataset Used: https://github.com/Yergataikagan/Mcdonald-s-Dashboard/blob/main/BZzFPpa7Q4Ocdekznax0_6-1%20McDonald-s%20Sales%20Dataset%20vF%20(1).xlsx
 
 More info on where the data comes from and how it's structured
 
