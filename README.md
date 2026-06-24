@@ -15,4 +15,4 @@ Dataset Used: https://github.com/Yergataikagan/Mcdonald-s-Dashboard/blob/main/BZ
 
 Source: Kaggle (McDonald's European Sales Dataset)
 
-Data on 65 McDonald's restaurant locations across Europe, including details on their store location, general managers, daily sales transactions by product category, payment methods, and theft records — as well as a complementary date table for time-based analysis
+Data on 65 McDonald's restaurant locations across Europe, including details on their store location, general managers, daily sales transactions by product category, payment methods, and theft records, also a complementary date table for time-based analysis
