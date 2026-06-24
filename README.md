@@ -13,8 +13,6 @@ This Power BI dashboard was built to give McDonald's European operations a centr
 
 Dataset Used: https://github.com/Yergataikagan/Mcdonald-s-Dashboard/blob/main/BZzFPpa7Q4Ocdekznax0_6-1%20McDonald-s%20Sales%20Dataset%20vF%20(1).xlsx
 
-More info on where the data comes from and how it's structured
-
 Source: Kaggle (McDonald's European Sales Dataset)
 
 Data on 65 McDonald's restaurant locations across Europe, including details on their store location, general managers, daily sales transactions by product category, payment methods, and theft records — as well as a complementary date table for time-based analysis
